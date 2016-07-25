@@ -1,0 +1,33 @@
+h3 {
+  font-size: 1.5em;
+}
+img {
+  margin: 10px;
+}
+body {
+  width: 320px;
+  border: solid 1px #ccc;
+  padding: 10px;
+  box-shadow: 5px 5px 20px #ccc;
+  font-family: sans-serif;
+}
+.text {
+  width: 280px;
+  padding: 10px;
+  border: solid 1px #ccc;
+  margin: 10px;
+}
+ul, li {
+  font-style: italic;
+  list-style-type: none;
+  list-style-position: outside;
+  margin: 0px;
+  padding: 0px;
+}
+#fact {
+  font-style: italic;
+}
+span {
+  font-weight: bold;
+  font-style: normal;
+}
